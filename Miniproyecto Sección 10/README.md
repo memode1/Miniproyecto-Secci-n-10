@@ -15,6 +15,7 @@ Incluye:
 
 ## 📁 Estructura del Proyecto
 
+```plaintext
 Miniproyecto 3/
 │
 ├── app/
@@ -32,7 +33,7 @@ Miniproyecto 3/
 └── notebooks/
 ├── EDA.ipynb # Exploración de datos
 └── 2_model_pipeline_cv.ipynb # Entrenamiento del modelo
-
+```
 ---
 
 # 1. Entrenamiento del Modelo
@@ -170,3 +171,4 @@ CMD ["uvicorn", "api:app", "--host", "0.0.0.0", "--port", "8000"]
 # Autores
 
 Jeronimo Dominguez – Mariana Franco – Juan Andres Ramos
+

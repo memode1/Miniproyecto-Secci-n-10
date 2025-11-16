@@ -81,14 +81,15 @@ El dataset contiene **918 registros** y **12 columnas**, entre variables numéri
 
 El modelo final se empaquetó y desplegó mediante:
 
-### ✔ FastAPI  
+### FastAPI  
 API para recibir datos del paciente y retornar predicción.
 
-### ✔ Docker  
+### Docker  
 Contenedor para estandarizar ejecución en cualquier entorno.
 
-### ✔ Kubernetes  
+### Kubernetes  
 Orquestación del contenedor para asegurar disponibilidad y escalabilidad.
 
 ---
+
 

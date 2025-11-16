@@ -75,7 +75,7 @@ Carga el modelo y expone el endpoint:
 }
 
 
-Ejemplo de salida:
+### Ejemplo de salida:
 
 
 {
@@ -168,4 +168,5 @@ CMD ["uvicorn", "api:app", "--host", "0.0.0.0", "--port", "8000"]
 
 
 # Autores
+
 Jeronimo Dominguez – Mariana Franco – Juan Andres Ramos
